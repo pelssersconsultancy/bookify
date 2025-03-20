@@ -1,0 +1,9 @@
+# Ignore build output directories
+bin/
+obj/
+# Ignore NuGet packages and cache
+/packages/
+# Ignore IDE-specific files (e.g., Visual Studio, Rider)
+riderModule.iml
+.idea/
+/_ReSharper.Caches/
